@@ -1,0 +1,17 @@
+{
+  "name": "ashin/project_excel",
+  "autoload": {
+    "psr-4": {
+      "Libs\\": "_classes/Libs/",
+      "Helpers\\": "_classes/Helpers/"
+    }
+  },
+  "authors": [
+    {
+      "name": "zayyarmaungmaung"
+    }
+  ],
+  "require": {
+    "fakerphp/faker": "^1.13"
+  }
+}
